@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "rea": { "source": { "source": "github", "repo": "morluto/rea" } },
+    "impeccable": { "source": { "source": "github", "repo": "pbakaus/impeccable" } }
+  },
+  "enabledPlugins": {
+    "rea@rea": true,
+    "impeccable@impeccable": true
+  }
+}
